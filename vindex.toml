@@ -1,7 +1,7 @@
 [project]
 name = "Vixfetch"
 version = "v0.1.0"
-description = "Vix 项目管理与构建工具"
+description = "Vix实现的简陋Neofetch平替（实则并非）"
 readme = "README.md"
 entrypoint = "vixfetch.vix"
 deps = []
